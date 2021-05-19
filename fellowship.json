@@ -236,7 +236,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"png tile map\/tile_1.png",
+         "image":"tiles/tile_1.png",
          "imageheight":224,
          "imagewidth":256,
          "margin":0,
@@ -249,7 +249,7 @@
         {
          "columns":6,
          "firstgid":57,
-         "image":"png tile map\/tile_carpet.jpg",
+         "image":"tiles/tile_carpet.jpg",
          "imageheight":192,
          "imagewidth":192,
          "margin":0,
@@ -262,7 +262,7 @@
         {
          "columns":7,
          "firstgid":93,
-         "image":"png tile map\/plants.png",
+         "image":"tiles/plants.png",
          "imageheight":224,
          "imagewidth":224,
          "margin":0,
@@ -275,7 +275,7 @@
         {
          "columns":8,
          "firstgid":142,
-         "image":"png tile map\/furniture_1.png",
+         "image":"tiles/furniture_1.png",
          "imageheight":288,
          "imagewidth":256,
          "margin":0,
@@ -288,7 +288,7 @@
         {
          "columns":8,
          "firstgid":214,
-         "image":"png tile map\/furniture-2.png",
+         "image":"tiles/furniture-2.png",
          "imageheight":288,
          "imagewidth":256,
          "margin":0,
@@ -301,7 +301,7 @@
         {
          "columns":6,
          "firstgid":286,
-         "image":"png tile map\/furniture_3.png",
+         "image":"tiles/furniture_3.png",
          "imageheight":224,
          "imagewidth":192,
          "margin":0,
@@ -314,7 +314,7 @@
         {
          "columns":1,
          "firstgid":328,
-         "image":"png tile map\/walk-area.png",
+         "image":"tiles/walk-area.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
