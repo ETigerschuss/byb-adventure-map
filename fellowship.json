@@ -157,17 +157,6 @@
          "y":0
         }, 
         {
-         "draworder":"topdown",
-         "id":19,
-         "name":"floorLayer",
-         "objects":[],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
          "compression":"zlib",
          "data":"eJztziESADAIwDAE4\/9PBj+DwyR39Y0AAAA2cnrL6ugRAPg136sAPQ==",
          "encoding":"base64",
@@ -262,6 +251,17 @@
          "type":"tilelayer",
          "visible":true,
          "width":32,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":19,
+         "name":"floorLayer",
+         "objects":[],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
          "x":0,
          "y":0
         }, 
