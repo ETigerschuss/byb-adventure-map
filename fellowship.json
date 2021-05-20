@@ -4,11 +4,11 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJztl1sLwyAMhW375Ngeetn\/\/6szsEAIyhpzttCuBw4iXj6oMbFLSmkJ8lQ8Ft9AHj6MZ9Uf30YpG+ej+Vah+VMw37rXxT8un2JtFf052fOPh0\/r5H3XuWVvvvLwvcrBfN6HvoM+m1XNm9UYkt86OyldRxB8rn89QvC98R\/JH4L51lpfk+f+I4SKY488+T+ST2d3L34YWhblMsphnvtPZ7cVPw2tXPuN969VF\/+4fIph7x1kfqvu65ovhchdzJf1v\/Wmq+V7FN+z\/l\/4tVj7Jb827wz8nv8mlKmG9vw3oUzsF4cRDOw=",
+         "data":"eJztwQENAAAAwqD3T20PBxQAAAAA\/BoTAAAB",
          "encoding":"base64",
          "height":38,
-         "id":1,
-         "name":"wall",
+         "id":23,
+         "name":"exit",
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
@@ -40,6 +40,20 @@
          "opacity":1,
          "type":"tilelayer",
          "visible":false,
+         "width":32,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "compression":"zlib",
+         "data":"eJztl1sLwyAMhW375Ngeetn\/\/6szsEAIyhpzttCuBw4iXj6oMbFLSmkJ8lQ8Ft9AHj6MZ9Uf30YpG+ej+Vah+VMw37rXxT8un2JtFf052fOPh0\/r5H3XuWVvvvLwvcrBfN6HvoM+m1XNm9UYkt86OyldRxB8rn89QvC98R\/JH4L51lpfk+f+I4SKY488+T+ST2d3L34YWhblMsphnvtPZ7cVPw2tXPuN969VF\/+4fIph7x1kfqvu65ovhchdzJf1v\/Wmq+V7FN+z\/l\/4tVj7Jb827wz8nv8mlKmG9vw3oUzsF4cRDOw=",
+         "encoding":"base64",
+         "height":38,
+         "id":1,
+         "name":"wall",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
@@ -279,7 +293,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":23,
+ "nextlayerid":24,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
