@@ -202,7 +202,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/player.twitch.tv\/?channel=backyardbrains&parent=backyardbrains.com&muted=false"
+                 "value":"https:\/\/player.twitch.tv\/?channel=backyardbrains&parent=office.backyardbrains.com&muted=false"
                 }],
          "type":"tilelayer",
          "visible":true,
