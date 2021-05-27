@@ -45,7 +45,7 @@
                  "value":"https:\/\/docs.google.com\/document\/d\/1gw-pmkWssETVJtWROH9bPpZm8y-NOW9RY7t7dsIYxgM"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -65,7 +65,7 @@
                  "value":"https:\/\/docs.google.com\/document\/d\/1nuAWdgCycfTDUhILbTborZyNAMFQtN5wGWhkjiOWZmg"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -85,7 +85,7 @@
                  "value":"https:\/\/docs.google.com\/document\/d\/1mEKFiGM8WuTfIHJ9t6qSabVRQtyNmwNRPZlDnve9Dv8"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -102,10 +102,10 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/docs.google.com\/document\/d\/1nuAWdgCycfTDUhILbTborZyNAMFQtN5wGWhkjiOWZmg"
+                 "value":"https:\/\/docs.google.com\/document\/d\/1VWNTbiECShFIw2pSYb76AVZ3stWVYBNwmifSCOfA5kI"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -125,7 +125,7 @@
                  "value":"https:\/\/docs.google.com\/document\/d\/12_KBaVfwdzQuV0d52jWJxIH2j71PbTVUZ2X3xyyKJO0"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -142,10 +142,10 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/docs.google.com\/document\/d\/https:\/\/docs.google.com\/document\/d\/1igEbsZHASbApDF70I_XMjZirxtvnmkN5CCm1xK4oaPU"
+                 "value":"https:\/\/docs.google.com\/document\/d\/1igEbsZHASbApDF70I_XMjZirxtvnmkN5CCm1xK4oaPU"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -162,7 +162,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/docs.google.com\/document\/d\/https:\/\/docs.google.com\/document\/d\/https:\/\/docs.google.com\/document\/d\/1tta5OpG7XnAiw4a_dE0yibETfv_GHLcw7yMx8xVaBO4"
+                 "value":"https:\/\/docs.google.com\/document\/d\/1tta5OpG7XnAiw4a_dE0yibETfv_GHLcw7yMx8xVaBO4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -241,7 +241,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
