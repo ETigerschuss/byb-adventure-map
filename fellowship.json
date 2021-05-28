@@ -200,7 +200,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openWebsiteFailed",
                  "type":"string",
                  "value":"https:\/\/player.twitch.tv\/?channel=backyardbrains&parent=backyardbrains.com"
                 }],
