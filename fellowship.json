@@ -200,9 +200,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsiteFailed",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/player.twitch.tv\/?channel=backyardbrains&parent=backyardbrains.com"
+                 "value":"https:\/\/www.youtube.com\/channel\/UCICLIvkj29GG63NpA3K2Elw\/live"
                 }],
          "type":"tilelayer",
          "visible":true,
