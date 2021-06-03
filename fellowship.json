@@ -225,6 +225,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiConfig",
+                 "type":"string",
+                 "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true }"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"BYB_Group_Meeting"
@@ -2297,7 +2302,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }, 
                 {
@@ -2369,7 +2374,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }, 
                 {
